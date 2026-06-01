@@ -17,10 +17,10 @@ cd maritime-qa-pipeline
 npm install
 ```
 
-Copy the example env file and add your API key:
+Create a new .env file and Copy the example env file and add your API key:
 
 ```bash
-copy .env.example .env
+copy example_env
 ```
 
 Edit `.env`:
